@@ -1,0 +1,11 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin-left: -30px;
+  margin-right: 165px;
+}
+.item {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}

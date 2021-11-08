@@ -1,0 +1,10 @@
+.btn-del {
+  cursor: pointer;
+}
+
+.btn-del-svg:hover > rect {
+  stroke: #906fd9;
+}
+.btn-del-svg:hover path {
+  fill: #906fd9;
+}

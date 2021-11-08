@@ -1,0 +1,26 @@
+.bottom-container {
+  display: flex;
+  justify-content: space-between;
+  height: 0;
+}
+.total-index {
+  display: flex;
+  justify-content: space-between;
+  width: 940px;
+}
+.index-one {
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #030306;
+}
+.index-all {
+  font-family: Gilroy;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 21px;
+  padding: 16px 0 0 0;
+  color: #906fd9;
+}
