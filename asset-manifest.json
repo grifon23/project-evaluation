@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/project-evaluation/static/css/main.4e1d3111.chunk.css",
-    "main.js": "/project-evaluation/static/js/main.ce961436.chunk.js",
-    "main.js.map": "/project-evaluation/static/js/main.ce961436.chunk.js.map",
+    "main.css": "/project-evaluation/static/css/main.16b173b5.chunk.css",
+    "main.js": "/project-evaluation/static/js/main.d82a05c8.chunk.js",
+    "main.js.map": "/project-evaluation/static/js/main.d82a05c8.chunk.js.map",
     "runtime-main.js": "/project-evaluation/static/js/runtime-main.fc98d4fd.js",
     "runtime-main.js.map": "/project-evaluation/static/js/runtime-main.fc98d4fd.js.map",
     "static/js/2.6658765b.chunk.js": "/project-evaluation/static/js/2.6658765b.chunk.js",
     "static/js/2.6658765b.chunk.js.map": "/project-evaluation/static/js/2.6658765b.chunk.js.map",
     "index.html": "/project-evaluation/index.html",
-    "static/css/main.4e1d3111.chunk.css.map": "/project-evaluation/static/css/main.4e1d3111.chunk.css.map",
+    "static/css/main.16b173b5.chunk.css.map": "/project-evaluation/static/css/main.16b173b5.chunk.css.map",
     "static/js/2.6658765b.chunk.js.LICENSE.txt": "/project-evaluation/static/js/2.6658765b.chunk.js.LICENSE.txt",
     "static/media/style.css": "/project-evaluation/static/media/gilroy-regular.b91b0127.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.fc98d4fd.js",
     "static/js/2.6658765b.chunk.js",
-    "static/css/main.4e1d3111.chunk.css",
-    "static/js/main.ce961436.chunk.js"
+    "static/css/main.16b173b5.chunk.css",
+    "static/js/main.d82a05c8.chunk.js"
   ]
 }
