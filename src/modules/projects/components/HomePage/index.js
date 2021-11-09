@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { ButtonAdd } from "../../../../shared";
-import { CardList, ModalAddCard } from "../../card-projects/components";
+import { CardList, ModalAddCard } from "../../components";
 import "./styles.css";
 export const HomePage = ({ cards }) => {
   const [modalCard, setModalCard] = useState(false);

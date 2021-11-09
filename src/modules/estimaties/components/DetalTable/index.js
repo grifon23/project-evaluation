@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useParams } from "react-router";
 import { useSelector } from "react-redux";
-import { ModalAddTask, Table, Indexes } from "../../table/components";
+import { ModalAddTask, Table, Indexes } from "../index";
 
 export const DetalTable = ({ cards }) => {
   const { title } = useParams();

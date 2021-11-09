@@ -1,5 +1,5 @@
 import React from "react";
-import { ButtonAdd } from "../../../../../shared/components/ButtonAdd";
+import { ButtonAdd } from "../../../../shared";
 import "./style.css";
 
 export const Indexes = ({ sum, totalSum, sumCost, totalCost, isOpen }) => {

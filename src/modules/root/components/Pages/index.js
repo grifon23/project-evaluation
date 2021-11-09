@@ -1,8 +1,8 @@
 import React from "react";
 import { useSelector } from "react-redux";
 import { Route, Switch } from "react-router-dom";
-import { HomePage } from "../../../dashboard/rootComponent/HomePage";
-import { DetalTable } from "../../../detalPageProject/rootComponent/DetalTable";
+import { HomePage } from "../../../projects/components/HomePage";
+import { DetalTable } from "../../../estimaties/components/DetalTable";
 import { Header } from "../Header";
 import "./style.css";
 export const Pages = () => {

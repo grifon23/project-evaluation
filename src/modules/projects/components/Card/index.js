@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { removeCard } from "../../../../../store/cards/actions";
-import { BtnCheck, BtnDel, BtnApp } from "../../../../../shared";
+import { removeCard } from "../../../../store/cards/actions";
+import { BtnCheck, BtnDel, BtnApp } from "../../../../shared";
 import { Total } from "../Total";
 import "./style.css";
 import { Link } from "react-router-dom";

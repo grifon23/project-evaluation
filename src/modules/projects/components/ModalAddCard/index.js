@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
-import { addCard } from "./../../../../../store/cards/actions";
+import { addCard } from "../../../../store/cards/actions";
 import "./style.css";
-import { ButtonAdd } from "./../../../../../shared";
+import { ButtonAdd } from "../../../../shared";
 
 export const ModalAddCard = ({ modalCard, isClose }) => {
   const [input, setInput] = useState("");

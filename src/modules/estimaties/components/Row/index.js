@@ -1,7 +1,7 @@
 import React from "react";
 import { useDispatch } from "react-redux";
-import { removeTask } from "../../../../../store/tasks/actions";
-import { IconClose } from "./../../../../../shared/components/IconClose/index";
+import { removeTask } from "../../../../store/tasks/actions";
+import { IconClose } from "../../../../shared";
 
 export const Row = ({ item }) => {
   const { description, hourMin, hourMax, unit, unitPrice, comments, cost } =

@@ -1,7 +1,7 @@
 import React from "react";
 import "./style.css";
-import { IconClose, ButtonAdd } from "../../../../../shared";
-import { ModalFormValueAmount } from "../../../hooks/ModalFormValueAmount";
+import { IconClose, ButtonAdd } from "../../../../shared";
+import { ModalFormValueAmount } from "../../hooks/ModalFormValueAmount";
 
 export const ModalAddTask = ({ cardId, isClose, isModal, cardCost }) => {
   const { description, hourMin, hourMax, comments, addNewtask, setFormField } =
