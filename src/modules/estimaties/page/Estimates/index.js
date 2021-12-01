@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { useParams } from "react-router";
 import { useSelector } from "react-redux";
-import { ModalAddTask, Table, Indexes } from "../index";
+import { ModalAddTask, Table, Indexes } from "../../components";
 
-export const DetalTable = ({ cards }) => {
+export const Estimates = ({ cards }) => {
   const { title } = useParams();
   const card = cards.find((item) => item.title === title);
   const { id } = card;

@@ -1,10 +1,10 @@
 import React from "react";
 
-import { Pages } from "./modules/root/components/Pages/index";
+import { Routes } from "./modules/root/Routes";
 function App() {
   return (
     <div>
-      <Pages />
+      <Routes />
     </div>
   );
 }
