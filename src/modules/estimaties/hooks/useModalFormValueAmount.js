@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useDispatch } from "react-redux";
 import { addTask } from "../../../store/tasks/actions";
 
-export const ModalFormValueAmount = ({ cardId, cardCost, isClose }) => {
+export const useModalFormValueAmount = ({ cardId, cardCost, isClose }) => {
   const [form, setForm] = useState({
     description: "",
     hourMin: "",
