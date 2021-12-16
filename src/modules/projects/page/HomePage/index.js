@@ -21,9 +21,9 @@ export const HomePage = ({ cards }) => {
       >
         <h1 className="title-page">Dashboard</h1>
       </div>
-      <div className="table-board">
+      <div>
         <CardList cards={cards} />
-        <div style={{ minWidth: "177px" }}>
+        <div className="table-board" style={{ minWidth: "177px" }}>
           <ButtonAdd onClick={isOpen} Children={"+Add new project"} />
         </div>
       </div>
